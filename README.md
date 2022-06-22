@@ -14,7 +14,7 @@ Then, you can use these API to run your own bot.
 
 This one must be called at each call of the bot. It returns an temp auth key from ppy.
 
-If you don't have a oauth app, you can go to [Account settings](https://osu.ppy.sh/home/account/edit#oauth) to request your own app.
+If you don't have an oauth app, you can go to [Account settings](https://osu.ppy.sh/home/account/edit#oauth) to request your own app.
 
 !!!KEEP YOUR APP SECRET IN SECURE AND DON'T LET ANY OTHER ONE KNOW IT!!!
 
